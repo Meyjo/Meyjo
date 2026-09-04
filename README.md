@@ -144,8 +144,11 @@ Cada proyecto de consultoría o ingeniería desarrollado bajo la marca se ejecut
 ## 📊 Métricas de Ingeniería en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meyjo&show_icons=true&hide_border=true&theme=transparent&count_private=true&cache_seconds=86400&title_color=0077B6&text_color=94A3B8&icon_color=00B4D8" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meyjo&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400&title_color=0077B6&text_color=94A3B8" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Meyjo&show_icons=true&hide_border=true&theme=transparent&count_private=true&cache_seconds=86400&title_color=0077B6&text_color=94A3B8&icon_color=00B4D8" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Meyjo&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400&title_color=0077B6&text_color=94A3B8" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Meyjo&theme=transparent&hide_border=true&ring=0077B6&fire=00B4D8&currStreakLabel=0077B6&sideLabels=94A3B8&dates=94A3B8" alt="GitHub Streak" />
 </p>
 
 ---
